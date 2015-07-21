@@ -3,6 +3,5 @@ WebGL Hack Night with ClojureScript and Gamma
 
 ## Getting Started
 
-Install [boot](https://github.com/boot-clj/boot#install).
-
-Run `boot start-dev` and point your browser to http://localhost:3000/.
+1. Install [boot](https://github.com/boot-clj/boot#install).
+2. Run `boot start-dev` and point your browser at http://localhost:3000/.
