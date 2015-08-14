@@ -1,0 +1,2 @@
+#!/bin/bash
+BOOT_CLOJURE_VERSION=1.7.0 BOOT_VERSION=2.1.2 boot start-dev
